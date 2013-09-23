@@ -1,0 +1,9 @@
+name: ex03lib_project
+version: 1.0.0
+author: brice gbaffonou <be.sunpro@gmail.com>
+description: A sample command-line application for using ex03lib, a library.
+homepage: http://ondart.me/
+documentation: http://ondart.me/
+dependencies:
+  ex03lib:
+    git:  git://github.com/besunpro/ex03lib.git
