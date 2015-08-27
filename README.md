@@ -1,7 +1,6 @@
-# Project
 # Using library in Dart
 #
-# Information
+#
 
 **Categories**: Dart, examples, education.
 
